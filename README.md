@@ -28,7 +28,7 @@ make
 
 To test, run:
 
-```console=
+```console
 ./helloworld | grep 'Hello, world!'
 ```
 
